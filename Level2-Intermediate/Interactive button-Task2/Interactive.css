@@ -1,0 +1,37 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    text-align: center;
+}
+
+.color1 {
+    background-color: red; 
+}
+.color2 {
+    background-color: green; 
+}
+.color3 {
+    background-color: brown; 
+}
+
+.color4 {
+    background-color: orange; 
+}
+
+.color5 {
+    background-color: yellow; 
+}
+
+.color6 {
+    background-color: magenta; 
+}
+
+.color7 {
+    background-color: purple; 
+}
